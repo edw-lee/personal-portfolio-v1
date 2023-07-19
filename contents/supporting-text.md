@@ -1,0 +1,1 @@
+I am a web developer and I enjoy coding software for the web that adds value to users. I am constantly learning and improving to provide the best solutions.
