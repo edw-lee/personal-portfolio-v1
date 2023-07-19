@@ -1,6 +1,6 @@
-****Personal Portfolio v1****
+## Personal Portfolio v1
 
-A source code for my personal portfolio website.
+The source code for my personal portfolio website.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
